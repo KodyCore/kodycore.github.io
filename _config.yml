@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RentCore
-email: sales@rentcore.com
+title: KodyCore
+email: sales@kodycore.com
 description: >- # this means to ignore newlines until "baseurl:"
-  RentCore is a property management system for rental properties.
+  KodyCore is a property management system for rental properties.
   Create an account with us to make use of our awesome products
   at an affordable fee.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rentcore
-github_username:  rentcore
+twitter_username: KodyCore
+github_username:  KodyCore
 
 # Build settings
 theme: minima
